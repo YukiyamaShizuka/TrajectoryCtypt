@@ -12,3 +12,4 @@ Unlike traditional encryption systems that rely on key-value pairs or mathematic
 - `TrajectoryCrypt_Sample.md` — A full walk-through simulation (Input: 57803426)
 - `LICENSE` — Custom open license for non-commercial usage
 - `COMMERCIAL.md` — Commercial licensing and pricing information
+- [→ 支持开发者 / Support the Developer](./help.md)
