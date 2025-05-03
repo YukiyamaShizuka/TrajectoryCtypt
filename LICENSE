@@ -1,7 +1,33 @@
+MIT-Style Custom License — Non-Commercial Only  
 Copyright (c) 2024 Yukiyama Shizuka
 
-Permission is hereby granted for non-commercial and academic use of this repository and its contents.
+Permission is hereby granted, free of charge, to any person or organization obtaining a copy of this repository and associated documentation files (the “Software”), to use, reproduce, and modify the Software for **non-commercial and academic purposes**, including:
 
-Commercial use, including integration into paid products, services, SaaS systems, or resale, requires a valid license. See COMMERCIAL.md for pricing and terms.
+- Personal use
+- Educational use
+- Research and experimentation
+- Non-profit development
 
-Unauthorized commercial use is prohibited and will be considered a license violation.
+**Commercial use is strictly prohibited** without an explicit, written commercial license from the copyright holder.  
+This includes, but is not limited to:
+
+- Use in any paid software or service
+- Integration into SaaS platforms or enterprise systems
+- Distribution as part of a commercial product or toolkit
+- Use within for-profit consulting, contracting, or derivative services
+
+To obtain a commercial license, see [COMMERCIAL.md](./COMMERCIAL.md) for terms and pricing.
+
+---
+
+## Enforcement
+
+Unauthorized commercial use constitutes a violation of this license and may result in takedown requests, legal action, or other remedies as permitted by law.  
+By using this repository, you agree to abide by the above terms.
+
+---
+
+## Jurisdiction
+
+This license is governed under international copyright law.  
+All rights not expressly granted herein are reserved by Yukiyama Shizuka.
