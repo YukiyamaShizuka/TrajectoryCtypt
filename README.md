@@ -1,15 +1,9 @@
-# TrajectoryCrypt
+## About the Developer
 
-**TrajectoryCrypt** is a novel encryption paradigm based on behavioral trajectories, logic feedback, and path-based identity anchoring.
+TrajectoryCrypt is independently designed and implemented by Yukiyama Shizuka.  
+This project is part of a long-term vision to explore encryption systems rooted in path behavior and structure logic, rather than centralized keys or brute-force resistance.
 
-Unlike traditional encryption systems that rely on key-value pairs or mathematical transformations, TrajectoryCrypt creates a multi-solution function `f(x)` derived from path feedback under entropy noise. The function is public, but only the creator can identify the correct input through behavioral memory.
+As an individual researcher and system architect, Yukiyama maintains this project without institutional or corporate backing.  
+Contributions in the form of dialogue, peer review, or conceptual discussion are always welcome.
 
----
-
-## Included
-
-- `TrajectoryCrypt_Whitepaper.md` — Full theory and implementation logic
-- `TrajectoryCrypt_Sample.md` — A full walk-through simulation (Input: 57803426)
-- `LICENSE` — Custom open license for non-commercial usage
-- `COMMERCIAL.md` — Commercial licensing and pricing information
-- [→ 支持开发者 / Support the Developer](./help.md)
+> _"We do not give up the stars, even when the ground is collapsing."_
